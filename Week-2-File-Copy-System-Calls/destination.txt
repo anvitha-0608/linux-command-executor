@@ -1,0 +1,3 @@
+Hello, this is a test file.
+This data will be copied using system calls.
+Operating Systems Lab.
